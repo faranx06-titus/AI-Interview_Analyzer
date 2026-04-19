@@ -10,7 +10,7 @@ audioread
 torch
 transformers
 
-
+openai-whisper
 tiktoken
 tokenizers
 

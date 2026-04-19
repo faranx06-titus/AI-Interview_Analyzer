@@ -11,7 +11,6 @@ from modules.visualize import (
     plot_sentiment,
     plot_wpm_variation
 )
-
 # ================= PAGE CONFIG =================
 st.set_page_config(page_title="AI Interview Analyzer", layout="wide")
 
